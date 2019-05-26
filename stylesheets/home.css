@@ -1,0 +1,13 @@
+.header{
+    text-align:right;
+    background-color: black;
+    color: white;
+}
+.main-content{
+    background-color: dakgrey;
+    /* 아래가 더 우선순위를 줌 */
+}
+.footer{
+    text-align:center;
+    background-color:
+}
